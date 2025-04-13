@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: url(../poto/pexels-pixabay-161293.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 8em;
+}
+h1{
+    text-decoration: white;
+    text-shadow: 10%;
+    margin-top: 10px;
+}
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8 px rgba(0, 0, 0, 0.2);
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+input, button a{
+    margin-top:  1em;
+    padding: 0.9em;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#feedback {
+    margin-top: 1em;
+    font-weight: bold;
+    height: 20px;
+    border-radius: 10px;
+}
+p{
+    margin-right: 20px;
+    
+}
